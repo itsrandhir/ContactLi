@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443486454477",
+    "firebase_url": "https://contactli-2e41c.firebaseio.com",
+    "project_id": "contactli-2e41c",
+    "storage_bucket": "contactli-2e41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443486454477:android:77695443ab2a4545681f84",
+        "android_client_info": {
+          "package_name": "com.example.contactli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443486454477-57tfbk8v4ibg3hns5eu4s49o91ik8j1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contactli",
+            "certificate_hash": "1d1c11382f5ece28dcb52dceb594c4f19b3b448a"
+          }
+        },
+        {
+          "client_id": "443486454477-jc2drusc34n0usrsilvspn25rkk3pdql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPgfYDHqLuHpOjA2Ra6Y0JDgx-dxYxlqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443486454477-jc2drusc34n0usrsilvspn25rkk3pdql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
